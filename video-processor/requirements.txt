@@ -1,0 +1,10 @@
+python-dotenv==1.0.0
+boto3==1.34.75
+deepgram-sdk
+prisma
+resend
+google-api-python-client
+google-auth
+isodate
+pytubefix
+cuid
